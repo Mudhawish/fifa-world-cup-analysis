@@ -19,7 +19,7 @@ This project explores the FIFA World Cup data from the last 5 tournaments (2006 
 - Created goal statistics and match outcome labels
 - Analyzed team performance: wins, draws, losses, goals
 - Dynamically identified the last 5 World Cup years
-- Tracked each winner’s journey to the trophy 🏆
+- Tracked each winner’s journey to the trophy 
 - Visualized top teams and trends with bar and line charts
 
 ---
