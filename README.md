@@ -28,7 +28,6 @@ This project explores the FIFA World Cup data from the last 5 tournaments (2006 
 
 - `Football - FIFA World Cup, 1930 – 2022.ipynb`: The main analysis notebook
 - `README.md`: Project overview and guide
-- (Optional) `chart.png`: Visuals of performance
 
 ---
 
